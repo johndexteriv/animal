@@ -1,0 +1,21 @@
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 560px;
+}
+
+body {
+
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(47, 93, 107);
+}
+
+p {
+    text-align: center;
+    color: black;
+}
